@@ -1,4 +1,4 @@
-# Домашнее задание 3 — Spark Streaming + Kafka 
+# Домашнее задание 3: Spark Streaming + Kafka 
 
 ## Описание
 
