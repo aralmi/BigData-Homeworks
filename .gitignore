@@ -1,0 +1,17 @@
+hw_env/
+venv/
+env/
+ml-latest/
+taxi_zones.json
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+*.swp
+*.session
+*.log
+.DS_Store
+Thumbs.db
